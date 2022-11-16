@@ -1,7 +1,7 @@
 # maxHquentR-CLI/holidates
 
 
-Run npm install @maximho/holidates to install our package!
+Run ```npm install @maximho/holidates``` to install our package!
 
 This package will help you determine the public holidays by year for a series of countries.
 
